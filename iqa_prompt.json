@@ -1,0 +1,8 @@
+{
+  "0": "Bad quality. The CT image fails to display the necessary anatomical features. Critical diagnostic information is entirely obscured, limiting any interpretability. Severe artifacts or distortions prevent recognition of relevant clinical structures.",
+  "1": "Poor quality. Essential diagnostic features are barely discernible or severely impaired. The scan quality significantly hampers accurate clinical interpretation. Severe noise, motion artifacts, or contrast issues render diagnostic assessment impossible.",
+  "2": "Fair quality. Anatomical structures are partially visible but not sufficiently clear for confident diagnostics. The presence of moderate artifacts or noise impacts detailed clinical evaluation. Limited interpretability; only basic or preliminary clinical assessments can be performed.",
+  "3": "Good quality. Anatomical structures are clearly identifiable, enabling effective clinical diagnosis. Image clarity is adequate, though minor artifacts or slight noise may still be present. Clinical details required for thorough diagnostic interpretation are well represented.",
+  "4": "Excellent quality. All anatomical structures are distinctly clear, providing optimal diagnostic confidence. Superior image clarity, free from significant artifacts or noise, facilitating precise assessments. Highly visible anatomical details support comprehensive and advanced diagnostic interpretation."
+}
+
