@@ -15,7 +15,7 @@ Prompt-based methods, which encode medical priors through descriptive text, have
 1. Clone the repository and navigate to its directory.
 2. Install the required dependencies by running:
    ```bash
-   python inference.py --ckpt checkpoints/... --batch 8 
+   pip install -r requirements.txt
    ```
 
 ---
@@ -31,8 +31,9 @@ Prompt-based methods, which encode medical priors through descriptive text, have
 ## Running Inference
 
 1. Run the inference.py
+
    ```bash
-   pip install -r requirements.txt
+   python inference.py --ckpt checkpoints/... --batch 8 
    ```
 
 ---
