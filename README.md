@@ -38,8 +38,25 @@ Prompt-based methods, which encode medical priors through descriptive text, have
 
 ---
 
+
 ## Example Usage
 
 - After setting up the environment and downloading the pretrained weights, you can test the model's performance on your CT images.
 
----
+---     
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@article{rifa2026cap,
+  title={CAP-IQA: Context-Aware Prompt-Guided CT Image Quality Assessment},
+  author={Rifa, Kazi Ramisa and Zhang, Jie and Imran, Abdullah},
+  journal={arXiv preprint arXiv:2601.01613},
+  year={2026}
+}
+```
+
+---      
+
